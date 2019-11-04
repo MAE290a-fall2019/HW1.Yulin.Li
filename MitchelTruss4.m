@@ -109,7 +109,7 @@ C = D';
 %1¡¢beta < theta < pi-beta
 %2¡¢beta-pi < theta < -beta
 %3¡¢theta = pi/2
-    config = 3;
+    config = 2;
 switch config
     case 1
         theta = 2/(3*pi);    

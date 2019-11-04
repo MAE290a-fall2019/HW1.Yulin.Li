@@ -72,6 +72,7 @@ C = D';
 % need to be zero.
 U = zeros(dim,num_freeNodes);
 U(3,1:4) = 0.3;
+U(1,1) = 0.0 1;
 U(3,5:8) = -0.3;
 
 
